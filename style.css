@@ -1,0 +1,62 @@
+.container{
+    border:solid black 2px; 
+    padding: 5px; 
+    margin-left: 90px; 
+    margin-right: 210px; 
+    margin-top: 100px; 
+    width:1250px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    height: 400px;
+}
+.grid-item1{
+    background-image: url('https://w0.peakpx.com/wallpaper/677/799/HD-wallpaper-archipelago-beer-glass-alcohol-foam-drink-beer.jpg');
+    width: 350px;
+    background-repeat: no-repeat;
+    margin-left: 200px;
+   
+    margin-bottom: 100px;
+ }
+ h1{
+    color: dodgerblue;
+    font-size: 50px;
+    text-align: center;
+    margin: 3px;
+    margin-right: 10px;
+    font-family: cursive;
+   
+}
+#img{
+    width: 650px;
+    height: 400px;
+    margin-left: 0px;
+    margin-bottom: 10px
+    
+}
+#txt{
+    margin-top: 20px;
+    margin-left: 100px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px ;
+    background: #f1f1f1;
+}
+button{
+    width: 70px;
+    height: 30px;
+    border:2px  darkblue;
+    background-color:green;
+    color: white;
+    border-radius: 150px;
+}
+#results{
+    margin-top: 50px;
+    text-align: left;
+    font-size: 22px;
+    padding-left: 10px;
+    font-family:cursive;
+   
+}
